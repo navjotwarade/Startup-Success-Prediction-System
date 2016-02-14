@@ -1,0 +1,285 @@
+market,Num.of.Comp,founded_year
+ Biotechnology ,10,1987
+ Biotechnology ,11,1988
+ Biotechnology ,13,1989
+ Biotechnology ,14,1990
+ Biotechnology ,7,1991
+ Biotechnology ,23,1992
+ Biotechnology ,22,1993
+ Biotechnology ,19,1994
+ Biotechnology ,27,1995
+ Biotechnology ,37,1996
+ Biotechnology ,66,1997
+ Biotechnology ,71,1998
+ Biotechnology ,74,1999
+ Biotechnology ,114,2000
+ Biotechnology ,102,2001
+ Biotechnology ,103,2002
+ Biotechnology ,111,2003
+ Biotechnology ,140,2004
+ Biotechnology ,178,2005
+ Biotechnology ,204,2006
+ Biotechnology ,237,2007
+ Biotechnology ,185,2008
+ Biotechnology ,212,2009
+ Biotechnology ,219,2010
+ Biotechnology ,203,2011
+ Biotechnology ,172,2012
+ Biotechnology ,125,2013
+ Biotechnology ,36,2014
+ Biotechnology ,13,2015
+ Clean Technology ,4,1987
+ Clean Technology ,1,1988
+ Clean Technology ,6,1989
+ Clean Technology ,3,1990
+ Clean Technology ,3,1991
+ Clean Technology ,5,1992
+ Clean Technology ,5,1993
+ Clean Technology ,8,1994
+ Clean Technology ,6,1995
+ Clean Technology ,11,1996
+ Clean Technology ,10,1997
+ Clean Technology ,9,1998
+ Clean Technology ,14,1999
+ Clean Technology ,21,2000
+ Clean Technology ,27,2001
+ Clean Technology ,27,2002
+ Clean Technology ,34,2003
+ Clean Technology ,38,2004
+ Clean Technology ,53,2005
+ Clean Technology ,71,2006
+ Clean Technology ,100,2007
+ Clean Technology ,85,2008
+ Clean Technology ,96,2009
+ Clean Technology ,53,2010
+ Clean Technology ,54,2011
+ Clean Technology ,49,2012
+ Clean Technology ,38,2013
+ Clean Technology ,28,2014
+ Clean Technology ,5,2015
+ Curated Web ,1,1987
+ Curated Web ,2,1989
+ Curated Web ,1,1991
+ Curated Web ,2,1993
+ Curated Web ,4,1994
+ Curated Web ,3,1995
+ Curated Web ,6,1996
+ Curated Web ,5,1997
+ Curated Web ,12,1998
+ Curated Web ,26,1999
+ Curated Web ,23,2000
+ Curated Web ,12,2001
+ Curated Web ,12,2002
+ Curated Web ,21,2003
+ Curated Web ,36,2004
+ Curated Web ,45,2005
+ Curated Web ,85,2006
+ Curated Web ,120,2007
+ Curated Web ,129,2008
+ Curated Web ,149,2009
+ Curated Web ,180,2010
+ Curated Web ,209,2011
+ Curated Web ,231,2012
+ Curated Web ,110,2013
+ Curated Web ,22,2014
+ Curated Web ,4,2015
+ E-Commerce ,2,1987
+ E-Commerce ,2,1988
+ E-Commerce ,2,1989
+ E-Commerce ,2,1990
+ E-Commerce ,1,1991
+ E-Commerce ,4,1992
+ E-Commerce ,3,1993
+ E-Commerce ,3,1994
+ E-Commerce ,8,1995
+ E-Commerce ,10,1996
+ E-Commerce ,12,1997
+ E-Commerce ,12,1998
+ E-Commerce ,31,1999
+ E-Commerce ,25,2000
+ E-Commerce ,18,2001
+ E-Commerce ,25,2002
+ E-Commerce ,22,2003
+ E-Commerce ,33,2004
+ E-Commerce ,42,2005
+ E-Commerce ,44,2006
+ E-Commerce ,78,2007
+ E-Commerce ,87,2008
+ E-Commerce ,117,2009
+ E-Commerce ,178,2010
+ E-Commerce ,289,2011
+ E-Commerce ,365,2012
+ E-Commerce ,257,2013
+ E-Commerce ,97,2014
+ E-Commerce ,17,2015
+ Enterprise Software ,3,1987
+ Enterprise Software ,1,1989
+ Enterprise Software ,4,1990
+ Enterprise Software ,5,1991
+ Enterprise Software ,1,1992
+ Enterprise Software ,4,1993
+ Enterprise Software ,3,1994
+ Enterprise Software ,6,1995
+ Enterprise Software ,20,1996
+ Enterprise Software ,17,1997
+ Enterprise Software ,21,1998
+ Enterprise Software ,37,1999
+ Enterprise Software ,57,2000
+ Enterprise Software ,40,2001
+ Enterprise Software ,44,2002
+ Enterprise Software ,39,2003
+ Enterprise Software ,38,2004
+ Enterprise Software ,46,2005
+ Enterprise Software ,57,2006
+ Enterprise Software ,73,2007
+ Enterprise Software ,78,2008
+ Enterprise Software ,115,2009
+ Enterprise Software ,121,2010
+ Enterprise Software ,147,2011
+ Enterprise Software ,130,2012
+ Enterprise Software ,89,2013
+ Enterprise Software ,26,2014
+ Enterprise Software ,3,2015
+ Games ,1,1987
+ Games ,2,1989
+ Games ,1,1990
+ Games ,2,1991
+ Games ,3,1992
+ Games ,4,1994
+ Games ,9,1995
+ Games ,10,1996
+ Games ,4,1997
+ Games ,12,1998
+ Games ,14,1999
+ Games ,21,2000
+ Games ,14,2001
+ Games ,15,2002
+ Games ,27,2003
+ Games ,29,2004
+ Games ,43,2005
+ Games ,60,2006
+ Games ,79,2007
+ Games ,85,2008
+ Games ,91,2009
+ Games ,103,2010
+ Games ,153,2011
+ Games ,115,2012
+ Games ,97,2013
+ Games ,54,2014
+ Games ,8,2015
+ Health and Wellness ,2,1987
+ Health and Wellness ,2,1988
+ Health and Wellness ,4,1989
+ Health and Wellness ,2,1990
+ Health and Wellness ,7,1991
+ Health and Wellness ,3,1992
+ Health and Wellness ,2,1993
+ Health and Wellness ,4,1994
+ Health and Wellness ,7,1995
+ Health and Wellness ,12,1996
+ Health and Wellness ,8,1997
+ Health and Wellness ,7,1998
+ Health and Wellness ,17,1999
+ Health and Wellness ,7,2000
+ Health and Wellness ,13,2001
+ Health and Wellness ,16,2002
+ Health and Wellness ,15,2003
+ Health and Wellness ,21,2004
+ Health and Wellness ,24,2005
+ Health and Wellness ,42,2006
+ Health and Wellness ,43,2007
+ Health and Wellness ,34,2008
+ Health and Wellness ,48,2009
+ Health and Wellness ,76,2010
+ Health and Wellness ,121,2011
+ Health and Wellness ,100,2012
+ Health and Wellness ,110,2013
+ Health and Wellness ,47,2014
+ Health and Wellness ,12,2015
+ Mobile ,1,1987
+ Mobile ,2,1988
+ Mobile ,3,1989
+ Mobile ,3,1990
+ Mobile ,4,1991
+ Mobile ,7,1992
+ Mobile ,3,1993
+ Mobile ,5,1994
+ Mobile ,6,1995
+ Mobile ,10,1996
+ Mobile ,13,1997
+ Mobile ,11,1998
+ Mobile ,31,1999
+ Mobile ,33,2000
+ Mobile ,40,2001
+ Mobile ,29,2002
+ Mobile ,38,2003
+ Mobile ,49,2004
+ Mobile ,61,2005
+ Mobile ,73,2006
+ Mobile ,97,2007
+ Mobile ,97,2008
+ Mobile ,123,2009
+ Mobile ,198,2010
+ Mobile ,335,2011
+ Mobile ,334,2012
+ Mobile ,223,2013
+ Mobile ,94,2014
+ Mobile ,14,2015
+ Software ,4,1987
+ Software ,19,1988
+ Software ,14,1989
+ Software ,19,1990
+ Software ,18,1991
+ Software ,23,1992
+ Software ,30,1993
+ Software ,32,1994
+ Software ,46,1995
+ Software ,53,1996
+ Software ,74,1997
+ Software ,96,1998
+ Software ,151,1999
+ Software ,179,2000
+ Software ,154,2001
+ Software ,161,2002
+ Software ,156,2003
+ Software ,144,2004
+ Software ,177,2005
+ Software ,198,2006
+ Software ,226,2007
+ Software ,227,2008
+ Software ,331,2009
+ Software ,351,2010
+ Software ,437,2011
+ Software ,526,2012
+ Software ,418,2013
+ Software ,191,2014
+ Software ,40,2015
+Others,6,1987
+Others,6,1988
+Others,5,1989
+Others,8,1990
+Others,3,1991
+Others,8,1992
+Others,8,1993
+Others,3,1994
+Others,10,1995
+Others,19,1996
+Others,9,1997
+Others,15,1998
+Others,23,1999
+Others,21,2000
+Others,18,2001
+Others,9,2002
+Others,25,2003
+Others,18,2004
+Others,24,2005
+Others,24,2006
+Others,32,2007
+Others,40,2008
+Others,50,2009
+Others,84,2010
+Others,97,2011
+Others,135,2012
+Others,178,2013
+Others,237,2014
+Others,125,2015

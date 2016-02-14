@@ -1,0 +1,513 @@
+country_code,market,Num.of.Comp
+, Biotechnology ,58
+, Clean Technology ,20
+, Curated Web ,65
+, E-Commerce ,81
+, Enterprise Software ,38
+, Games ,52
+, Health and Wellness ,28
+, Mobile ,105
+,Others,421
+, Software ,149
+ARE, Curated Web ,2
+ARE, E-Commerce ,10
+ARE, Enterprise Software ,2
+ARE, Games ,1
+ARE, Mobile ,3
+ARE,Others,4
+ARE, Software ,1
+ARG, Biotechnology ,1
+ARG, Curated Web ,9
+ARG, E-Commerce ,14
+ARG, Enterprise Software ,2
+ARG, Games ,2
+ARG, Mobile ,9
+ARG,Others,1
+ARG, Software ,8
+AUS, Biotechnology ,18
+AUS, Clean Technology ,6
+AUS, Curated Web ,6
+AUS, E-Commerce ,17
+AUS, Enterprise Software ,10
+AUS, Games ,5
+AUS, Health and Wellness ,3
+AUS, Mobile ,12
+AUS,Others,11
+AUS, Software ,24
+AUT, Biotechnology ,6
+AUT, Clean Technology ,1
+AUT, Curated Web ,3
+AUT, E-Commerce ,1
+AUT, Games ,3
+AUT, Mobile ,3
+AUT,Others,2
+AUT, Software ,14
+AZE, Mobile ,1
+BEL, Biotechnology ,7
+BEL, Clean Technology ,1
+BEL, Curated Web ,5
+BEL, E-Commerce ,2
+BEL, Enterprise Software ,3
+BEL, Games ,2
+BEL, Health and Wellness ,1
+BEL, Mobile ,3
+BEL,Others,1
+BEL, Software ,18
+BGD, E-Commerce ,1
+BGD, Enterprise Software ,1
+BGD, Games ,1
+BGR, Clean Technology ,1
+BGR, Curated Web ,4
+BGR, E-Commerce ,4
+BGR, Enterprise Software ,1
+BGR, Games ,6
+BGR, Health and Wellness ,1
+BGR,Others,2
+BGR, Software ,10
+BHR, Software ,1
+BLR, Curated Web ,1
+BLR, Games ,1
+BMU, Curated Web ,1
+BMU, Health and Wellness ,1
+BMU,Others,1
+BRA, Biotechnology ,3
+BRA, Clean Technology ,2
+BRA, Curated Web ,8
+BRA, E-Commerce ,37
+BRA, Enterprise Software ,6
+BRA, Games ,3
+BRA, Health and Wellness ,2
+BRA, Mobile ,8
+BRA,Others,10
+BRA, Software ,18
+BWA, E-Commerce ,1
+BWA, Software ,1
+CAN, Biotechnology ,73
+CAN, Clean Technology ,45
+CAN, Curated Web ,32
+CAN, E-Commerce ,37
+CAN, Enterprise Software ,50
+CAN, Games ,31
+CAN, Health and Wellness ,13
+CAN, Mobile ,64
+CAN,Others,22
+CAN, Software ,139
+CHE, Biotechnology ,31
+CHE, Clean Technology ,7
+CHE, Curated Web ,4
+CHE, E-Commerce ,8
+CHE, Enterprise Software ,1
+CHE, Games ,2
+CHE, Health and Wellness ,3
+CHE, Mobile ,7
+CHE,Others,3
+CHE, Software ,18
+CHL, Biotechnology ,3
+CHL, Clean Technology ,8
+CHL, Curated Web ,4
+CHL, E-Commerce ,21
+CHL, Enterprise Software ,4
+CHL, Games ,8
+CHL, Health and Wellness ,6
+CHL, Mobile ,12
+CHL,Others,4
+CHL, Software ,17
+CHN, Biotechnology ,20
+CHN, Clean Technology ,13
+CHN, Curated Web ,25
+CHN, E-Commerce ,89
+CHN, Enterprise Software ,20
+CHN, Games ,49
+CHN, Health and Wellness ,6
+CHN, Mobile ,65
+CHN,Others,12
+CHN, Software ,38
+CMR, Games ,1
+COL, E-Commerce ,1
+COL, Enterprise Software ,2
+COL, Mobile ,2
+COL,Others,1
+COL, Software ,1
+CRI, E-Commerce ,1
+CYM, Clean Technology ,2
+CYM, Games ,1
+CYP, E-Commerce ,1
+CYP, Software ,3
+CZE, Curated Web ,4
+CZE, E-Commerce ,2
+CZE, Games ,3
+CZE, Mobile ,2
+CZE, Software ,3
+DEU, Biotechnology ,50
+DEU, Clean Technology ,12
+DEU, Curated Web ,26
+DEU, E-Commerce ,61
+DEU, Enterprise Software ,15
+DEU, Games ,20
+DEU, Health and Wellness ,14
+DEU, Mobile ,42
+DEU,Others,24
+DEU, Software ,79
+DNK, Biotechnology ,10
+DNK, Clean Technology ,7
+DNK, Curated Web ,5
+DNK, E-Commerce ,8
+DNK, Enterprise Software ,2
+DNK, Games ,4
+DNK, Mobile ,8
+DNK,Others,16
+DNK, Software ,21
+DZA, E-Commerce ,1
+ECU, E-Commerce ,1
+EGY, Curated Web ,1
+EGY, E-Commerce ,5
+EGY, Mobile ,3
+ESP, Biotechnology ,12
+ESP, Clean Technology ,2
+ESP, Curated Web ,13
+ESP, E-Commerce ,33
+ESP, Enterprise Software ,10
+ESP, Games ,11
+ESP, Health and Wellness ,2
+ESP, Mobile ,29
+ESP,Others,6
+ESP, Software ,31
+EST, Clean Technology ,1
+EST, E-Commerce ,1
+EST, Enterprise Software ,1
+EST, Games ,1
+EST, Software ,9
+FIN, Biotechnology ,4
+FIN, Clean Technology ,3
+FIN, Curated Web ,4
+FIN, E-Commerce ,5
+FIN, Enterprise Software ,6
+FIN, Games ,9
+FIN, Health and Wellness ,4
+FIN, Mobile ,16
+FIN,Others,4
+FIN, Software ,13
+FRA, Biotechnology ,34
+FRA, Clean Technology ,5
+FRA, Curated Web ,29
+FRA, E-Commerce ,28
+FRA, Enterprise Software ,17
+FRA, Games ,15
+FRA, Health and Wellness ,3
+FRA, Mobile ,30
+FRA,Others,12
+FRA, Software ,107
+GBR, Biotechnology ,112
+GBR, Clean Technology ,48
+GBR, Curated Web ,76
+GBR, E-Commerce ,95
+GBR, Enterprise Software ,58
+GBR, Games ,62
+GBR, Health and Wellness ,19
+GBR, Mobile ,95
+GBR,Others,44
+GBR, Software ,206
+GHA, Curated Web ,1
+GHA, Games ,2
+GHA, Mobile ,1
+GHA,Others,1
+GHA, Software ,2
+GRC, Curated Web ,2
+GRC, E-Commerce ,1
+GRC, Enterprise Software ,1
+GRC, Games ,1
+GRC, Mobile ,2
+GRC, Software ,3
+GTM, Games ,1
+GTM, Mobile ,1
+HKG, Biotechnology ,1
+HKG, Curated Web ,6
+HKG, E-Commerce ,11
+HKG, Enterprise Software ,3
+HKG, Games ,7
+HKG, Mobile ,6
+HKG, Software ,5
+HRV, Software ,2
+HUN, Health and Wellness ,1
+HUN, Mobile ,3
+HUN,Others,2
+HUN, Software ,5
+IDN, E-Commerce ,14
+IDN, Games ,2
+IDN, Health and Wellness ,2
+IDN, Mobile ,2
+IDN,Others,3
+IDN, Software ,3
+IND, Biotechnology ,11
+IND, Clean Technology ,18
+IND, Curated Web ,27
+IND, E-Commerce ,93
+IND, Enterprise Software ,11
+IND, Games ,15
+IND, Health and Wellness ,20
+IND, Mobile ,40
+IND,Others,18
+IND, Software ,78
+IRL, Biotechnology ,8
+IRL, Clean Technology ,9
+IRL, Curated Web ,8
+IRL, E-Commerce ,8
+IRL, Enterprise Software ,16
+IRL, Games ,11
+IRL, Health and Wellness ,4
+IRL, Mobile ,14
+IRL,Others,3
+IRL, Software ,45
+ISL, Mobile ,0
+ISL,Others,1
+ISL, Software ,3
+ISR, Biotechnology ,46
+ISR, Clean Technology ,15
+ISR, Curated Web ,12
+ISR, E-Commerce ,17
+ISR, Enterprise Software ,10
+ISR, Games ,14
+ISR, Health and Wellness ,9
+ISR, Mobile ,39
+ISR,Others,14
+ISR, Software ,56
+ITA, Biotechnology ,8
+ITA, Clean Technology ,2
+ITA, Curated Web ,13
+ITA, E-Commerce ,15
+ITA, Enterprise Software ,2
+ITA, Games ,6
+ITA, Mobile ,7
+ITA,Others,7
+ITA, Software ,14
+JOR, Curated Web ,2
+JOR, E-Commerce ,4
+JOR,Others,1
+JOR, Software ,1
+JPN, Biotechnology ,4
+JPN, Clean Technology ,3
+JPN, Curated Web ,15
+JPN, E-Commerce ,12
+JPN, Enterprise Software ,5
+JPN, Games ,12
+JPN, Mobile ,7
+JPN,Others,19
+JPN, Software ,27
+KEN, Games ,1
+KEN,Others,1
+KEN, Software ,1
+KHM, Clean Technology ,1
+KHM,Others,5
+KOR, Biotechnology ,1
+KOR, Curated Web ,3
+KOR, E-Commerce ,16
+KOR, Enterprise Software ,3
+KOR, Games ,22
+KOR, Health and Wellness ,2
+KOR, Mobile ,10
+KOR,Others,14
+KOR, Software ,46
+LBN, Curated Web ,1
+LBN, Games ,1
+LIE, Software ,1
+LKA,Others,1
+LTU, Curated Web ,2
+LTU, E-Commerce ,1
+LTU, Mobile ,3
+LTU, Software ,1
+LUX, Clean Technology ,1
+LUX, E-Commerce ,2
+LUX, Mobile ,3
+LUX, Software ,2
+LVA, Biotechnology ,2
+LVA, E-Commerce ,2
+LVA, Software ,3
+MAF, Software ,1
+MAR, E-Commerce ,1
+MCO, Games ,1
+MEX, Clean Technology ,3
+MEX, Curated Web ,2
+MEX, E-Commerce ,9
+MEX, Games ,0
+MEX, Health and Wellness ,1
+MEX, Mobile ,4
+MEX,Others,3
+MEX, Software ,6
+MKD, Software ,1
+MLT, Curated Web ,1
+MLT, Games ,1
+MMR, Software ,1
+MYS, Biotechnology ,0
+MYS, Curated Web ,2
+MYS, E-Commerce ,3
+MYS, Enterprise Software ,1
+MYS, Mobile ,7
+MYS,Others,2
+MYS, Software ,2
+NGA, E-Commerce ,5
+NGA, Games ,1
+NGA,Others,3
+NGA, Software ,1
+NIC, Clean Technology ,1
+NLD, Biotechnology ,14
+NLD, Clean Technology ,8
+NLD, Curated Web ,7
+NLD, E-Commerce ,11
+NLD, Enterprise Software ,8
+NLD, Games ,5
+NLD, Health and Wellness ,2
+NLD, Mobile ,8
+NLD,Others,17
+NLD, Software ,19
+NOR, Biotechnology ,2
+NOR, Clean Technology ,1
+NOR, Curated Web ,2
+NOR, E-Commerce ,2
+NOR, Enterprise Software ,2
+NOR, Games ,3
+NOR, Mobile ,4
+NOR,Others,1
+NOR, Software ,14
+NPL, Enterprise Software ,2
+NZL, Biotechnology ,1
+NZL, Clean Technology ,2
+NZL, Curated Web ,1
+NZL, E-Commerce ,2
+NZL, Games ,0
+NZL, Health and Wellness ,1
+NZL, Mobile ,3
+NZL, Software ,7
+PAK, Curated Web ,1
+PAK, E-Commerce ,3
+PAK, Games ,1
+PAN, Enterprise Software ,1
+PAN, Software ,1
+PER, Clean Technology ,2
+PER, E-Commerce ,4
+PER, Games ,1
+PER, Mobile ,1
+PER,Others,1
+PHL, Curated Web ,2
+PHL, E-Commerce ,4
+PHL, Games ,4
+PHL,Others,3
+PHL, Software ,2
+POL, Curated Web ,2
+POL, E-Commerce ,5
+POL, Enterprise Software ,2
+POL, Games ,6
+POL, Health and Wellness ,1
+POL, Mobile ,6
+POL,Others,1
+POL, Software ,7
+PRT, Biotechnology ,6
+PRT, Clean Technology ,1
+PRT, Curated Web ,3
+PRT, E-Commerce ,4
+PRT, Enterprise Software ,1
+PRT, Health and Wellness ,2
+PRT, Mobile ,5
+PRT,Others,5
+PRT, Software ,6
+ROU, Biotechnology ,1
+ROU, Curated Web ,3
+ROU, E-Commerce ,1
+ROU, Games ,1
+ROU, Mobile ,1
+ROU, Software ,2
+RUS, Clean Technology ,1
+RUS, Curated Web ,14
+RUS, E-Commerce ,26
+RUS, Enterprise Software ,1
+RUS, Games ,12
+RUS, Health and Wellness ,3
+RUS, Mobile ,8
+RUS,Others,2
+RUS, Software ,19
+SAU, Health and Wellness ,1
+SGP, Biotechnology ,5
+SGP, Clean Technology ,1
+SGP, Curated Web ,7
+SGP, E-Commerce ,15
+SGP, Enterprise Software ,4
+SGP, Games ,4
+SGP, Mobile ,25
+SGP,Others,8
+SGP, Software ,20
+SLV, Games ,1
+SRB, Biotechnology ,1
+SVK, Curated Web ,1
+SVK, Enterprise Software ,1
+SVK, Games ,1
+SVK, Mobile ,1
+SVK, Software ,1
+SVN, E-Commerce ,1
+SVN, Enterprise Software ,1
+SVN, Mobile ,2
+SWE, Biotechnology ,14
+SWE, Clean Technology ,9
+SWE, Curated Web ,8
+SWE, E-Commerce ,9
+SWE, Enterprise Software ,8
+SWE, Games ,14
+SWE, Health and Wellness ,2
+SWE, Mobile ,17
+SWE,Others,4
+SWE, Software ,28
+THA, E-Commerce ,5
+THA, Games ,1
+THA,Others,3
+THA, Software ,5
+TUR, Biotechnology ,1
+TUR, Clean Technology ,4
+TUR, Curated Web ,6
+TUR, E-Commerce ,26
+TUR, Enterprise Software ,1
+TUR, Games ,5
+TUR, Mobile ,4
+TUR,Others,3
+TUR, Software ,11
+TWN, Biotechnology ,4
+TWN, Curated Web ,0
+TWN, Games ,5
+TWN, Health and Wellness ,1
+TWN, Mobile ,1
+TWN, Software ,2
+TZA, Clean Technology ,1
+TZA, Mobile ,1
+UGA, Clean Technology ,1
+UGA, E-Commerce ,1
+UGA, Software ,2
+UKR, Clean Technology ,1
+UKR, E-Commerce ,5
+UKR, Enterprise Software ,1
+UKR, Games ,2
+UKR, Mobile ,2
+UKR,Others,1
+UKR, Software ,2
+URY, E-Commerce ,1
+URY, Games ,1
+URY, Software ,1
+USA, Biotechnology ,2089
+USA, Clean Technology ,548
+USA, Curated Web ,736
+USA, E-Commerce ,759
+USA, Enterprise Software ,843
+USA, Games ,482
+USA, Health and Wellness ,632
+USA, Mobile ,1033
+USA,Others,475
+USA, Software ,2886
+UZB, E-Commerce ,1
+VNM, Curated Web ,1
+VNM, E-Commerce ,5
+VNM, Games ,1
+VNM, Mobile ,2
+ZAF, Clean Technology ,1
+ZAF, Curated Web ,1
+ZAF, E-Commerce ,6
+ZAF, Games ,3
+ZAF, Mobile ,5
+ZAF,Others,1
+ZAF, Software ,3
+ZWE, Clean Technology ,1

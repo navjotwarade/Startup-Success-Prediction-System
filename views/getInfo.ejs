@@ -1,0 +1,169 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Classify Startup</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+        body {
+            padding-top: 50px;
+            padding-bottom: 20px;
+        }
+    </style>
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="user.js" ></script>
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+  </head>
+  <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Classify Startup</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right" role="form">
+<!--             <div class="form-group">
+              <input type="text" placeholder="Email" class="form-control">
+            </div>
+            <div class="form-group">
+              <input type="password" placeholder="Password" class="form-control">
+            </div> -->
+            <button type="submit" formaction="/" class="btn btn-success">Home</button>
+          </form>
+        </div><!--/.navbar-collapse -->
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Calculate the success factor</h1>
+        <a class="btn btn-success btn-md pull-right" href="disp" role="button">Visualize &raquo;</a>
+  <!-- <button type="button" class="btn btn-success pull-right" onclick=>Plot</button> -->
+        <!-- <p>Identifying a promising startup can be a tricky problem. Data about startups could tell information that may help investors to exploit the knowledge for monetary gain.</p>
+        <p><a class="btn btn-primary btn-lg" href="learnMore.html" role="button">Learn more &raquo;</a></p> -->
+      </div>
+    </div>
+
+    <div class="container">
+      <div>
+        <form role="form">
+          <div class="form-group">
+            <h2>What type of Startup?</h2>
+            
+  <a href="top10" type="button" class="btn btn-primary">Existing</a>
+  <button type="button" class="btn btn-primary">New</button>
+  <hr>
+<form action="/csvTest" method="get" >
+  <div class="container">    
+    <span class="glyphicon glyphicon-th-large"></span>
+    &nbsp Company Category:<br>
+    <div class="input-group">
+    <input type="text" id="category" name="category" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="Software">
+    </div>
+<br>
+    <span class="glyphicon glyphicon-globe"></span>
+    &nbsp Region:<br>
+    <div class="input-group">
+    <input type="text" id="region" name="region" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="Mexico City">
+    </div>
+<br>
+    <span class="glyphicon glyphicon-usd"></span>
+    &nbsp Funding Rounds:<br>
+    <div class="input-group">
+    <input type="text" id="totfund" name= "totfund" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="4">
+    </div>
+<br>
+    <span class="glyphicon glyphicon-retweet"></span>
+    &nbsp Total Funding:<br>
+    <div class="input-group">
+    <input type="text" id="fundrounds" name="fundround" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="USD">
+    </div>
+<br>
+    <span class="glyphicon glyphicon-calendar"></span>
+    &nbsp Founding Year:<br>
+    <div class="input-group">
+    <input type="text" id="year" name="year" class="form-control" aria-label="Amount (to the nearest dollar)" placeholder="2008">
+    </div>
+  </div>
+  <br>
+  <button type="submit" formaction="/csvTest" class="btn btn-success">Submit</button>
+  <br>
+  <div class="title">  
+   
+</div>  
+</form>
+
+          </div>
+        </form>
+      </div>
+      
+            
+      <!-- Example row of columns -->
+        <!--<div class="row">
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+       </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+      </div>
+ -->
+      <hr>
+
+      <footer>
+        <p>&copy; Company 2015</p>
+      </footer>
+    </div> <!-- /container --> 
+
+           <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script src="js/main.js"></script>  
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>
