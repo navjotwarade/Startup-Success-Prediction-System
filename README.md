@@ -5,7 +5,7 @@
 
 
 ## Usage
-
+This software can be used by the Venture Capitalist firms in deciding whether they should invest is startup oor not according to the success rate.
 
 
 ## Developing
